@@ -1,5 +1,5 @@
 <p>
-<h1 align="center"><img src= "" width="50" height="50" /></a><b> Hey! I'm Neeraj, thanks for being here. </b><img src= "" width="50" height="50" /></a>
+<h1 align="center"></a><b> Hey! I'm Neeraj, thanks for being here. </b></a>
 </h1>
 </p>
 
@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/neeraj-kumar-pandit-5107241a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:neerajkumar.pndt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://twitter.com/neeraj_compchem"><img src="https://img.shields.io/twitter/follow/neeraj_compchem?style=for-the-badge&logo=twitter&logoColor=Blue" alt="Twitter" /></a>&nbsp;
-<a href="https://orcid.org/0000-0002-7590-734X"><img src="https://img.shields.io/badge/-ORCID-ffffff?style=for-the-badge&logo=ORCID&logoColor=white alt="ORCID" /></a>&nbsp;
+<a href="https://orcid.org/0000-0002-6885-0920"><img src="https://img.shields.io/badge/-ORCID-ffffff?style=for-the-badge&logo=ORCID&logoColor=white alt="ORCID" /></a>&nbsp;
     <br />
     I'm an MSc grad in Chemistry from <a href="https://www.iiti.ac.in/">IIT Indore</a>. My area of interests are computational chemistry and machine learnig. I really enjoy learning different tools and platforms in data science wich connencts to a smart way of doing chemistry!
 <br>
@@ -35,3 +35,4 @@
     <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;</a>
 
 </h2>
+<h1 align="center"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/gif_slab_updown.gif" width="90" height="80" />
