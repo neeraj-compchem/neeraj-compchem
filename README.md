@@ -16,9 +16,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neeraj-compchem&show_icons=true&theme=highcontrast"></a>
 <h2 align="center">
     <p>DFT tools:</p>
-    <a href="#"><img src="https://img.shields.io/badge/GPAW.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="GPAW" />&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/VASP.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="VASP"/>&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/Gaussian.svg?style=for-the-badge&logo=latex&logoColor=white" alt="Gaussian"/>&nbsp;</a>
+    <a href="#"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/gpaw-logo.png" width="95" height="50" />&nbsp;</a>
+    <a href="#"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Gaussian_logo.png" width="90" height="50" />&nbsp;</a>
+    <a href="#"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/VASP_logo.png" width="90" height="50" />&nbsp;</a>
     <br />
     <p>I code with:</p>
     <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;</a>
@@ -27,7 +27,7 @@
     <br />
     <p>I edit with: </p>
     <a href="#"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />&nbsp;</a>
+    <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />&nbsp;</a>
     <br />
     <p>I use:</p>
     <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />&nbsp;</a>
