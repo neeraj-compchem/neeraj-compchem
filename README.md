@@ -35,4 +35,3 @@
     <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;</a>
 
 </h2>
-<h1 align="center"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/gif_slab_updown.gif" width="90" height="80" />
