@@ -31,6 +31,7 @@
     <br />
     <p>I use:</p>
     <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />&nbsp;</a>
+    <a href="https://xgboost.readthedocs.io/en/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/XGBoost_logo.png" alt="XGBoost" title="Go to docs" width="90" height="28">&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;</a>
 
