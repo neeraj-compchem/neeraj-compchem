@@ -28,11 +28,11 @@
     <p>Platforms: </p>
     <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/PyCharm.png" alt="pycharm" title="pycharm" width="50" height="50">&nbsp;</a>
     <a href="https://jupyter.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/JPTR.png" alt="jupyter" title="jupyter" width="45" height="50">&nbsp;</a>
-    <a href="https://colab.research.google.com/?utm_source=scs-index"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Colab.png" alt="Welcome to Colab!" title="Google Colaboratory" width="70" height="50">&nbsp;</a>
+    <a href="https://colab.research.google.com/?utm_source=scs-index"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Colab.png" alt="Welcome to Colab!" title="Google Colaboratory" width="80" height="50">&nbsp;</a>
     <br />
     <p>I use:</p>
     <a href="https://scikit-learn.org/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/SKL.png" alt="scikit-learn" title="scikit-learn" width="75" height="40">&nbsp;</a>
-    <a href="https://xgboost.readthedocs.io/en/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/XGBoost_logo.png" alt="XGBoost" title="Go to docs" width="90" height="28">&nbsp;</a>
+    <a href="https://xgboost.readthedocs.io/en/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/XGB.png" alt="XGBoost" title="Go to docs" width="90" height="28">&nbsp;</a>
     <a href="https://pandas.pydata.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Pandas.png" alt="pandas" title="pandas" width="85" height="30">&nbsp;</a>
     <a href="https://numpy.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/NUMPY.png" alt="numpy" title="numpy" width="95" height="40">&nbsp;</a>
 
