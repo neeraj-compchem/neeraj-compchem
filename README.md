@@ -20,10 +20,9 @@
     <a href="#"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Gaussian_logo.png" width="90" height="50" />&nbsp;</a>
     <a href="#"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/VASP_logo.png" width="90" height="50" />&nbsp;</a>
     <br />
-    <p>Platforms:</p>
-    <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="Latex"/>&nbsp;</a>
+    <p>Programming:</p>
+    <a href="https://www.python.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Python.png" alt="Python" title="Python" width="50" height="50">&nbsp;</a>
+    <a href="https://isocpp.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/C%2B%2B.png" alt="C++" title="C++" width="45" height="50">&nbsp;</a>
     <br />
     <p>Platforms: </p>
     <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/PyCharm.png" alt="pycharm" title="pycharm" width="50" height="50">&nbsp;</a>
@@ -31,9 +30,9 @@
     <a href="https://colab.research.google.com/?utm_source=scs-index"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Colab.png" alt="Welcome to Colab!" title="Google Colaboratory" width="80" height="50">&nbsp;</a>
     <br />
     <p>I use:</p>
-    <a href="https://scikit-learn.org/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/SKL.png" alt="scikit-learn" title="scikit-learn" width="75" height="40">&nbsp;</a>
-    <a href="https://xgboost.readthedocs.io/en/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/XGB.png" alt="XGBoost" title="Go to docs" width="90" height="28">&nbsp;</a>
-    <a href="https://pandas.pydata.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Pandas.png" alt="pandas" title="pandas" width="85" height="30">&nbsp;</a>
-    <a href="https://numpy.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/NUMPY.png" alt="numpy" title="numpy" width="95" height="40">&nbsp;</a>
-
+    <a href="https://scikit-learn.org/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/SKL.png" alt="scikit-learn" title="scikit-learn" width="80" height="50">&nbsp;</a>
+    <a href="https://xgboost.readthedocs.io/en/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/XGB.png" alt="XGBoost" title="Go to docs" width="105" height="50">&nbsp;</a>
+    <a href="https://pandas.pydata.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Pandas.png" alt="pandas" title="pandas" width="110" height="50">&nbsp;</a>
+    <a href="https://numpy.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/NUMPY.png" alt="numpy" title="numpy" width="100" height="50">&nbsp;</a>
+    <a href="https://matplotlib.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Matplotlib.png" alt="Matplotlib" title="Matplotlib" width="50" height="50">&nbsp;</a>
 </h2>
