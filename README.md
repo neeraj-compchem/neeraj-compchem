@@ -20,19 +20,20 @@
     <a href="#"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Gaussian_logo.png" width="90" height="50" />&nbsp;</a>
     <a href="#"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/VASP_logo.png" width="90" height="50" />&nbsp;</a>
     <br />
-    <p>I code with:</p>
+    <p>Platforms:</p>
     <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="Latex"/>&nbsp;</a>
     <br />
-    <p>I edit with: </p>
-    <a href="#"><img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />&nbsp;</a>
+    <p>Platforms: </p>
+    <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/PyCharm.png" alt="pycharm" title="pycharm" width="50" height="50">&nbsp;</a>
+    <a href="https://jupyter.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/JPTR.png" alt="jupyter" title="jupyter" width="45" height="50">&nbsp;</a>
+    <a href="https://colab.research.google.com/?utm_source=scs-index"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Colab.png" alt="Welcome to Colab!" title="Google Colaboratory" width="70" height="50">&nbsp;</a>
     <br />
     <p>I use:</p>
-    <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />&nbsp;</a>
+    <a href="https://scikit-learn.org/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/SKL.png" alt="scikit-learn" title="scikit-learn" width="75" height="40">&nbsp;</a>
     <a href="https://xgboost.readthedocs.io/en/stable/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/XGBoost_logo.png" alt="XGBoost" title="Go to docs" width="90" height="28">&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;</a>
-    <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;</a>
+    <a href="https://pandas.pydata.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Pandas.png" alt="pandas" title="pandas" width="85" height="30">&nbsp;</a>
+    <a href="https://numpy.org/"><img src="https://github.com/neeraj-compchem/neeraj-compchem/blob/main/NUMPY.png" alt="numpy" title="numpy" width="95" height="40">&nbsp;</a>
 
 </h2>
