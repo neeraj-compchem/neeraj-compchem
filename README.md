@@ -4,11 +4,11 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/neeraj-kumar-pandit-5107241a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<!--<a href="https://www.linkedin.com/in/neeraj-kumar-pandit-5107241a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:neerajkumar.pndt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://twitter.com/neeraj_compchem"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://orcid.org/0000-0002-6885-0920"><img src="https://img.shields.io/badge/-ORCID-ffffff?style=for-the-badge&logo=ORCID&logoColor=white alt="ORCID" /></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=pZT-B6kAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Scolar" /></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=pZT-B6kAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Scolar" /></a>&nbsp;-->
     <br />
     I'm a doctoral student in Chemistry at the <a href="https://www.uni-goettingen.de/">University of Goettingen</a>. My area of interests are computational chemistry and machine learnig. I really enjoy learning different tools and platforms in data science wich connects to a smart way of doing chemistry!
 <br>
