@@ -17,9 +17,10 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neeraj-compchem&show_icons=true&theme=highcontrast"></a>
 <h2 align="center">
     <p>DFT tools:</p>
+    <a href="https://gaussian.com/"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Gaussian_logo.png" width="90" height="50" />&nbsp;</a>
+    <a href="https://gaussian.com/"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/orca_black.png" width="90" height="50" />&nbsp;</a>
     <a href="https://wiki.fysik.dtu.dk/gpaw/"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/gpaw-logo.png" width="95" height="50" />&nbsp;</a>
     <a href="https://www.vasp.at/"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/VASP_logo.png" width="90" height="50" />&nbsp;</a>
-    <a href="https://gaussian.com/"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Gaussian_logo.png" width="90" height="50" />&nbsp;</a>
     <br />
     <p>Programming:</p>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python" title="Python">&nbsp;</a>
