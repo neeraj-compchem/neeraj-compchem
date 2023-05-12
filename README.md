@@ -37,6 +37,5 @@
     <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="numpy" title="numpy">&nbsp;</a>
     <br />
     <p>I am learning:</p>
-    <a href="https://www.tensorflow.org/resources/learn-ml?gclid=CjwKCAjwrNmWBhA4EiwAHbjEQMQeO2OXDY7Gbbs9PPPkTXCUm71RS-jc52xPtBqxhfdpYPKAxl09gRoCQqAQAvD_BwE"><img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" title="TensorFlow">&nbsp;</a>
     <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" title="PyTorch">&nbsp;</a>
 </h2>
