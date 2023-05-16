@@ -13,8 +13,8 @@
     I'm a doctoral student in Chemistry at the <a href="https://www.uni-goettingen.de/">University of Goettingen</a>. My area of interests are computational chemistry and machine learnig. I really enjoy learning different tools and platforms in data science wich connects to a smart way of doing chemistry!
 <br>
 <h2 align="center">
-  <p>My stats:</p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neeraj-compchem&show_icons=true&theme=highcontrast"></a>
+<!--   <p>My stats:</p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=neeraj-compchem&show_icons=true&theme=highcontrast"></a> -->
 <h2 align="center">
     <p>DFT tools:</p>
     <a href="https://gaussian.com/"><img src= "https://github.com/neeraj-compchem/neeraj-compchem/blob/main/Gaussian_logo.png" width="90" height="50" />&nbsp;</a>
