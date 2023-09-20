@@ -8,9 +8,9 @@
 <a href="mailto:neerajkumar.pndt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>&nbsp;
 <a href="https://twitter.com/neeraj_compchem"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://orcid.org/0000-0002-6885-0920"><img src="https://img.shields.io/badge/-ORCID-ffffff?style=for-the-badge&logo=ORCID&logoColor=white alt="ORCID" /></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=pZT-B6kAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Scolar" /></a>&nbsp;-->
+<a href="https://scholar.google.com/citations?user=pZT-B6kAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Scholar" /></a>&nbsp;-->
     <br />
-    I'm a doctoral student in Chemistry at the <a href="https://www.uni-goettingen.de/">University of Goettingen</a>. My area of interests are computational chemistry and machine learnig. I really enjoy learning different tools and platforms in data science wich connects to a smart way of doing chemistry!
+    I'm a doctoral student in Chemistry at the <a href="https://www.uni-goettingen.de/">University of Goettingen</a>. My areas of interest are computational chemistry and machine learning. I really enjoy learning different tools and platforms in data science which connects to an intelligent way of doing chemistry!
 <br>
 <h2 align="center">
 <!--   <p>My stats:</p>
@@ -38,5 +38,5 @@
     <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="numpy" title="numpy">&nbsp;</a>
     <br />
     <p>I am learning:</p>
-    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" title="PyTorch">&nbsp;</a>
+    <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-EE4C2C.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" title="TensorFlow">&nbsp;</a>
 </h2>
