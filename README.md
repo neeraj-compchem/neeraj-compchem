@@ -10,7 +10,7 @@
 <a href="https://orcid.org/0000-0002-6885-0920"><img src="https://img.shields.io/badge/-ORCID-ffffff?style=for-the-badge&logo=ORCID&logoColor=white alt="ORCID" /></a>&nbsp;
 <a href="https://scholar.google.com/citations?user=pZT-B6kAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="Scholar" /></a>&nbsp;-->
     <br />
-    I'm a doctoral student in Chemistry at the <a href="https://www.uni-goettingen.de/">University of Goettingen</a>. My areas of interest are computational chemistry and machine learning. I really enjoy learning different tools and platforms in data science which connects to an intelligent way of doing chemistry!
+    I'm a doctoral student in Chemistry at the <a href="https://www.uni-goettingen.de/">University of Göttingen</a>. My areas of interest are computational chemistry and machine learning. I really enjoy learning different tools and platforms in data science which connects to an intelligent way of doing chemistry!
 <br>
 <h2 align="center">
 <!--   <p>My stats:</p>
